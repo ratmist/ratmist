@@ -1,102 +1,79 @@
-<h1 align="center">Hi, I'm <your_nickname></h1>
+<pre>
+                                ██████╗  █████╗ ████████╗███╗   ███╗██╗███████╗████████╗
+                                ██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██║██╔════╝╚══██╔══╝
+                                ██████╔╝███████║   ██║   ██╔████╔██║██║███████╗   ██║           
+                                ██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██║╚════██║   ██║    (\_/)      
+                                ██║  ██║██║  ██║   ██║   ██║ ╚═╝ ██║██║███████║   ██║    ( •_•)   < recon mode       
+                                ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝╚══════╝   ╚═╝    / >🧀 
+</pre>
+
+<div align="center">
+<img src="https://img.shields.io/badge/role-junior%20pentester-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20INFRA%20%7C%20AUTOMATION-0d1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/status-learning%20%26%20practicing-14532D?style=for-the-badge">
+</div>
+
 
 <p align="center">
-Junior Pentester • Information Security Student • Offensive Security Track
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-JUNIOR_PENTESTER-0d1117">
-  <img src="https://img.shields.io/badge/FOCUS-WEB_|_INFRA_|_AUTOMATION-0d1117">
-  <img src="https://img.shields.io/badge/LEVEL-ENTRY_/_JUNIOR-0d1117">
-</p>
-
-<p align="center">
-  <a href="https://t.me/<telegram>">
-    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?logo=telegram&logoColor=white">
+  <a href="https://t.me/<telegram_channel>">
+    <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://<your-blog-domain-or-github-pages>/">
+    <img src="https://img.shields.io/badge/Blog%20Page-0d1117?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto">
   </a>
 </p>
 
----
+## DESCRIPTION
 
-## About Me
+**ratmist** is a learning-oriented **Junior Pentester** profile designed to document
+progress in **web and infrastructure security**, **automation**, and **vulnerability research**.
 
-I am an **Information Security student** preparing for a **Junior Pentester** role.
+The focus is on:
 
-I focus on building a strong foundation in **offensive security**, combining theory with hands-on practice through labs, CTF platforms, and self-directed experimentation.
+- real attack surfaces  
+- misconfigurations and weak defaults  
+- controlled exploitation in lab environments  
+- clear documentation of findings  
 
-My goal is to develop practical skills in identifying, exploiting, and understanding real-world security vulnerabilities.
 
----
+## Scripting & Automation
 
-## Core Skills
+<div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
-- Web application security fundamentals (OWASP Top 10)
-- Network reconnaissance and service enumeration
-- Basic exploitation and post-exploitation techniques
-- Writing simple automation scripts to support pentesting tasks
-- Understanding common misconfigurations and weak security practices
+Used for automation, enumeration helpers, and small custom pentesting utilities.
 
----
+## Pentesting Tools
 
-## Skills & Tooling
+<div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Hashcat-8B0000?style=for-the-badge&logo=hashcat&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-0A1F44?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
-### 🧠 Scripting & Automation
-<p>
-  <img src="https://img.shields.io/badge/Bash-0d1117?logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-0d1117?logo=python&logoColor=white">
-</p>
 
-- **Bash** — automation, enumeration helpers, environment scripting  
-- **Python** — custom tools, parsers, small security utilities
 
----
+## PRACTICE PLATFORMS
 
-### 🛠 Pentesting Tools
-<p>
-  <img src="https://img.shields.io/badge/Nmap-0d1117?logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Hashcat-0d1117?logo=hashcat&logoColor=white">
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-0d1117?logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Metasploit-0d1117?logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-0d1117?logo=docker&logoColor=white">
-</p>
+<div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:15px;">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-active-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TryHackMe-in%20progress-212C42?logo=tryhackme&logoColor=red&style=for-the-badge">
+</div>
 
-Used for reconnaissance, traffic analysis, password attacks, web testing, and lab environments.
 
----
 
-### 🗄 Databases
-<p>
-  <img src="https://img.shields.io/badge/SQLite-0d1117?logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?logo=postgresql&logoColor=white">
-</p>
 
-Basic understanding of SQL, queries, and common database-related vulnerabilities.
-
----
-
-### 🧪 Practice Platforms
-<p>
-  <img src="https://img.shields.io/badge/Hack_The_Box-111927?logo=hackthebox&logoColor=9FEF00">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=red">
-</p>
-
-Hands-on practice with guided labs, vulnerable machines, and attack scenarios.
-
----
-
-## Currently Learning
-
-- Privilege escalation techniques (Linux)
-- Web attack chains and exploitation logic
-- Better scripting practices for pentesting automation
-- Reading real vulnerability reports and write-ups
-
----
 
 ## Mindset
+![](https://img.shields.io/badge/Learn%20by%20breaking-6C5CE7?style=for-the-badge)
 
-> *Learn by breaking. Document what you learn. Improve consistently.*
+
+
+
 
