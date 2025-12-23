@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="https://t.me/<telegram_channel>"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"></a><a href="https://<your-blog-domain-or-github-pages>/"><img src="https://img.shields.io/badge/Blog%20Page-0d1117?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto"></a>
+  <a href="https://t.me/ratmist_env"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"></a><a href="https://ratmist.github.io/pentest-blog/"><img src="https://img.shields.io/badge/Blog%20Page-0d1117?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto"></a>
 </p>
 
 ## DESCRIPTION
