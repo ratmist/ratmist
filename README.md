@@ -3,6 +3,15 @@
 <p align="center">
 Junior Pentester • Information Security Student • Offensive Security Enthusiast
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-0d1117?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-0d1117?logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-0d1117?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-0d1117?logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0d1117?logo=docker&logoColor=white">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-PENTESTER-darkred">
