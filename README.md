@@ -50,9 +50,6 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
   </a>
 </p>
 </div>
-
-<br>
-<br>
 <br>
 <p align="left">
   <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/s.png" width="280" alt="welcome to env">
