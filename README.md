@@ -92,10 +92,10 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
 
 ---
 
-<div>
+<p>
 <img align="left" src="https://raw.githubusercontent.com/ratmist/ratmist/main/stat.svg" width="500">
-</div><br><br>
-<br>
+</p>
+A snapshot of my current practical work in pentesting, including lab-based exercises, box walkthroughs, and custom tooling. I focus on realistic environments, combining manual testing with automation where appropriate.<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p>
   <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/ai.png" width="650" alt="welcome to env">
