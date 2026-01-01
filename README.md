@@ -42,6 +42,14 @@ I’m focused on practical web and infrastructure security, with an emphasis on 
 I spend most of my time exploring attack surfaces, breaking misconfigured systems in controlled environments, and turning manual workflows into small scripts and tools. I’m especially interested in how weak defaults, poor design decisions, and overlooked edge cases lead to exploitable conditions.
 
 This space is where I document my journey in pentesting: lab work, CTF challenges, write-ups, tooling experiments, and notes from ongoing research. I use it both as a knowledge base and as a way to track progress toward becoming a confident and well-rounded pentester.
+<div><br><br><br>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?quote=No%20one%20gathers%20OSINT%20better%20than%20a%20girl%20checking%20her%20ex.&theme=tokyonight&type=horizontal">
+  </a>
+</p>
+</div>
 
 <br>
 <br>
@@ -79,60 +87,17 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
 <br>
 <br>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/wh.png" width="300" alt="welcome to env">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/ac.png" width="320" alt="welcome to env">
 </p>
 
 ---
 
 <div>
-<p align="left">
-<img align="right" src="https://raw.githubusercontent.com/ratmist/ratmist/main/1.svg" width="500">
+<img align="left" src="https://raw.githubusercontent.com/ratmist/ratmist/main/stat.svg" width="500">
+</div><br><br>
+<br>
 
-<p align="left">
-
-   <a href="https://www.hackthebox.com/"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="40" alt="Hack The Box"></a><a href="https://tryhackme.com/"><img src="https://cdn.simpleicons.org/tryhackme/ff3c3c" width="40" alt="TryHackMe"></a><a href="https://www.root-me.org/"><img src="https://cdn.simpleicons.org/rootme/ffffff" width="40" alt="Root-Me"></a><a href="https://portswigger.net/"><img src="https://cdn.simpleicons.org/portswigger/ff6633" width="40" alt="PortSwigger"></a><a href="https://owasp.org/"><img src="https://cdn.simpleicons.org/owasp/58a6ff" width="40" alt="OWASP"></a>
-
-
-<br clear="right">
-</p>
-
-```mermaid
-journey
-  title Pentesting Learning Roadmap
-
-  section Foundations
-    Networking basics: 5: Me
-    Linux internals: 4: Me
-    HTTP & Web fundamentals: 5: Me
-
-  section Web Security
-    OWASP Top 10: 5: Me
-    Burp Suite practice: 4: Me
-    Web labs & challenges: 3: Me
-
-  section Infrastructure
-    Network enumeration: 4: Me
-    Service misconfigurations: 3: Me
-    Privilege escalation: 2: Me
-
-  section Automation
-    Bash scripting: 4: Me
-    Python tooling: 3: Me
-    Custom helpers: 2: Me
-
-  section Practice
-    CTF challenges: 3: Me
-    Write-ups & notes: 2: Me
-```
-<p align="center">────────────</p>
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=No%20one%20gathers%20OSINT%20better%20than%20a%20girl%20checking%20her%20ex.&theme=github_dark&type=horizontal">
-  </a>
-</p>
-
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/ai.png" width="650" alt="welcome to env">
 </p>
 
@@ -164,7 +129,6 @@ My work has included:
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,linux" />
 </p>
-
 
 
 
