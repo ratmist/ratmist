@@ -78,7 +78,7 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
 
 <br>
 <br>
-<br>
+
 <p align="center">────────────</p>
 
 <p align="center">
@@ -86,9 +86,7 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
     <img src="https://quotes-github-readme.vercel.app/api?quote=No%20one%20gathers%20OSINT%20better%20than%20a%20girl%20checking%20her%20ex.&theme=github_dark&type=horizontal">
   </a>
 </p>
-<br>
-<br>
-<br>
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/ai.png" width="650" alt="welcome to env">
 </p>
