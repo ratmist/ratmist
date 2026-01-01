@@ -92,7 +92,13 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
 <p>
 <img align="left" src="https://raw.githubusercontent.com/ratmist/ratmist/main/stat.svg" width="500">
 </p>
-A snapshot of my current practical work in pentesting, including lab-based exercises, box walkthroughs, and custom tooling. I focus on realistic environments, combining manual testing with automation where appropriate.<br><br><br><br><br><br><br><br><br><br><br><br>
+I regularly work through lab environments and full attack-chain scenarios on platforms such as Hack The Box, TryHackMe, and similar training grounds that simulate real-world web and infrastructure setups.
+
+My focus is on completing boxes end-to-end: from initial reconnaissance and enumeration to exploitation and post-exploitation analysis. Rather than solving isolated challenges, I aim to understand how individual weaknesses combine into practical attack paths, including misconfigurations, weak defaults, and logic flaws.
+
+In parallel, I develop small custom tools and automation scripts to support my workflow. These include helpers for enumeration, data collection, and repetitive testing tasks. Building tooling alongside manual testing helps me better understand both the attacker’s perspective and the underlying system behavior.
+
+The activity metrics shown above are updated as new labs, boxes, write-ups, and tools are completed. They reflect practical progress and areas of focus rather than static achievements.<br><br><br>
 
 <p>
   <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/ai.png" width="650" alt="welcome to env">
