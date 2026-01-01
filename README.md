@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/w.png" width="900" alt="welcome to env">
+</p>
 <pre>
                                 ██████╗  █████╗ ████████╗███╗   ███╗██╗███████╗████████╗
                                 ██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██║██╔════╝╚══██╔══╝
@@ -14,21 +17,42 @@
 </div>
 
 
+
+
+
 <p align="center">
   <a href="https://t.me/ratmist_env"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"></a><a href="https://ratmist.github.io/pentest-blog/"><img src="https://img.shields.io/badge/Blog%20Page-0d1117?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto"></a>
 </p>
 
-## DESCRIPTION
 
-**ratmist** is a learning-oriented **Junior Pentester** profile designed to document
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/a.png" width="400" alt="welcome to env">
+</p>
+
+---
+
+<table>
+<tr>
+<td valign="top">
+
+**ratmist** is a learning-oriented **Junior Pentester** profile designed to document  
 progress in **web and infrastructure security**, **automation**, and **vulnerability research**.
 
-The focus is on:
-
+**The focus is on:**
 - real attack surfaces  
 - misconfigurations and weak defaults  
 - controlled exploitation in lab environments  
 - clear documentation of findings  
+
+</td>
+<td valign="top" align="right">
+
+<img src="https://i.giphy.com/kFXNJcTqASHLInbnt3.webp" width="300">
+
+</td>
+</tr>
+</table>
+
 
 
 ## Scripting & Automation
