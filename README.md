@@ -78,7 +78,52 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
 
 <br>
 <br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/wh.png" width="300" alt="welcome to env">
+</p>
 
+---
+
+<div>
+<p align="left">
+<img align="right" src="https://raw.githubusercontent.com/ratmist/ratmist/main/1.svg" width="500">
+
+<p align="left">
+
+   <a href="https://www.hackthebox.com/"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="40" alt="Hack The Box"></a><a href="https://tryhackme.com/"><img src="https://cdn.simpleicons.org/tryhackme/ff3c3c" width="40" alt="TryHackMe"></a><a href="https://www.root-me.org/"><img src="https://cdn.simpleicons.org/rootme/ffffff" width="40" alt="Root-Me"></a><a href="https://portswigger.net/"><img src="https://cdn.simpleicons.org/portswigger/ff6633" width="40" alt="PortSwigger"></a><a href="https://owasp.org/"><img src="https://cdn.simpleicons.org/owasp/58a6ff" width="40" alt="OWASP"></a>
+
+
+<br clear="right">
+</p>
+
+```mermaid
+journey
+  title Pentesting Learning Roadmap
+
+  section Foundations
+    Networking basics: 5: Me
+    Linux internals: 4: Me
+    HTTP & Web fundamentals: 5: Me
+
+  section Web Security
+    OWASP Top 10: 5: Me
+    Burp Suite practice: 4: Me
+    Web labs & challenges: 3: Me
+
+  section Infrastructure
+    Network enumeration: 4: Me
+    Service misconfigurations: 3: Me
+    Privilege escalation: 2: Me
+
+  section Automation
+    Bash scripting: 4: Me
+    Python tooling: 3: Me
+    Custom helpers: 2: Me
+
+  section Practice
+    CTF challenges: 3: Me
+    Write-ups & notes: 2: Me
+```
 <p align="center">────────────</p>
 
 <p align="center">
