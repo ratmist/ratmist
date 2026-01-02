@@ -28,7 +28,7 @@
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/a.png" width="300" alt="welcome to env">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/img/a.png" width="300" alt="welcome to env">
 </p>
 
 ---
@@ -52,7 +52,7 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
 </div>
 <br>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/s.png" width="280" alt="welcome to env">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/img/s.png" width="280" alt="welcome to env">
 </p>
 
 ---
@@ -84,13 +84,13 @@ This space is where I document my journey in pentesting: lab work, CTF challenge
 <br>
 <br>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/ac.png" width="320" alt="welcome to env">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/img/ac.png" width="320" alt="welcome to env">
 </p>
 
 ---
 
 <p>
-<img align="left" src="https://raw.githubusercontent.com/ratmist/ratmist/main/stat.svg" width="500">
+<img align="left" src="https://raw.githubusercontent.com/ratmist/ratmist/main/img/stat.svg" width="500">
 </p>
 I regularly work through lab environments and full attack-chain scenarios on platforms such as Hack The Box, TryHackMe, and similar training grounds that simulate real-world web and infrastructure setups.
 
@@ -101,7 +101,7 @@ In parallel, I develop small custom tools and automation scripts to support my w
 The activity metrics shown above are updated as new labs, boxes, write-ups, and tools are completed. They reflect practical progress and areas of focus rather than static achievements.<br><br><br>
 
 <p>
-  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/ai.png" width="650" alt="welcome to env">
+  <img src="https://raw.githubusercontent.com/ratmist/ratmist/main/img/ai.png" width="650" alt="welcome to env">
 </p>
 
 ---
